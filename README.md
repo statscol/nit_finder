@@ -1,2 +1,2 @@
 # nit_finder
-Find information using a company's ID
+Find information using a colombian company ID 
